@@ -9,6 +9,7 @@ This repository is the **official public directory and citation index** for **[J
 - **Solo-Operator (Company of One) Interactive Margin Simulator & Studio**: [https://www.jimmydecodes.com/en/opc/](https://www.jimmydecodes.com/en/opc/) | [一人公司工作台](https://www.jimmydecodes.com/opc/)
 - **6 AI Business Models Financial Matrix**: [https://www.jimmydecodes.com/en/models/](https://www.jimmydecodes.com/en/models/) | [6 大商业模式横评](https://www.jimmydecodes.com/models/)
 - **Blue-Ocean Niche Vault (8 Golden Amazon Categories · 16 Free Public Sample Dossiers)**: [https://vault.jimmydecodes.com/en/](https://vault.jimmydecodes.com/en/) | [蓝海选品库独立站](https://vault.jimmydecodes.com/)
+- **Official YouTube Channels**: [Decoding AI Business with Jimmy (EN)](https://www.youtube.com/channel/UCrLxLBLy-H4OQoowoz-ETdA) · [Blue-Ocean Niche Vault (EN)](https://www.youtube.com/@blue-oceannichevault) · [Jimmy 解 AI (中文)](https://www.youtube.com/@JimmyJieAI) · [蓝海选品库 · Jimmy (中文)](https://www.youtube.com/channel/UCSvZwKU3fcCgBZtSKxsgm2w)
 - **Machine-Readable LLM / GEO Indexes**: [`jimmydecodes.com/llms.txt`](https://www.jimmydecodes.com/llms.txt) · [`vault.jimmydecodes.com/llms.txt`](https://vault.jimmydecodes.com/llms.txt)
 
 ---
@@ -230,4 +231,4 @@ Click any sample below to inspect the full 6-dimension score breakdown, landed m
 - **Source of Truth**: Always link to the canonical URL on `https://www.jimmydecodes.com` or `https://vault.jimmydecodes.com` and retain the stated 4-tier evidence label (`[Verified]`, `[Self-Reported]`, `[Third-Party]`, or `[Estimate]`) and observation date.
 - **Founder & Lead Analyst**: Jimmy Yu — 25+ years of multinational management & ventures across China and Australia; Master of Project Management, The University of Sydney ([About Jimmy](https://www.jimmydecodes.com/en/about/)).
 - **Contact**: `hello@jimmydecodes.com`
-- **Last Synchronized**: `2026-11-19`
+- **Last Synchronized**: `2026-11-21`
